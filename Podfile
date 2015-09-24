@@ -1,5 +1,5 @@
 platform :ios, '8.0'
-xcodeproj 'iOS/ReactNativeSimpleAuth.xcodeproj'
+xcodeproj 'ios/ReactNativeSimpleAuth.xcodeproj'
 use_frameworks!
 
 target 'ReactNativeSimpleAuth' do
